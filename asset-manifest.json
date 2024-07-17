@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e6c13ad2.css",
+    "main.js": "./static/js/main.2d25a95d.js",
+    "static/js/453.cdb56966.chunk.js": "./static/js/453.cdb56966.chunk.js",
+    "static/media/img_remont1.png": "./static/media/img_remont1.ee510362165f6933548d.png",
+    "static/media/img_dom1.png": "./static/media/img_dom1.61eded7dd2723b8e2ce7.png",
+    "static/media/img_samochod1.png": "./static/media/img_samochod1.f6bf0477d071891a7b2e.png",
+    "static/media/img_biuro1.png": "./static/media/img_biuro1.708cb2cefdfc9e34dca0.png",
+    "static/media/logo.png": "./static/media/logo.2fcec3707aee8d0f73c2.png",
+    "static/media/etykieta.jpeg": "./static/media/etykieta.30d935e2ffb9e949cde8.jpeg",
+    "index.html": "./index.html",
+    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
+    "main.2d25a95d.js.map": "./static/js/main.2d25a95d.js.map",
+    "453.cdb56966.chunk.js.map": "./static/js/453.cdb56966.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2d25a95d.js"
+  ]
+}
